@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width: 970px;
+    margin: 0px auto;
+    background: #ffffff;
+    /* padding: 20px; */
+
+}
+#blue{
+    background: #245076;
+    box-sizing: border-box;
+    padding: 20px;
+}
+#top{
+    padding: 5px;
+}
+#top p{
+    display:inline-block;
+    color: white;
+    font-family: arial;
+    margin-left: 730px;
+}
+#top h4{
+    display: inline-block;
+}
+#top a{
+    color: yellow;
+    font-family: arial;
+}
+#logo img{
+    width: 400px;
+    height: 100px;
+}
+#graybox{
+    display: inline-block;
+    background: rgb(75, 75, 75);
+    vertical-align: top;
+    padding: 20px;
+    margin-left: 300px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 1px rgb(44, 44, 44);
+}
+#graybox button{
+    margin-left: 20px;
+}
+#buttons{
+    background: rgb(76, 134, 153);
+    width: 770px;
+    margin: 0px auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 1px rgb(44, 44, 44);
+}
+#buttons h3{
+    display: inline-block;
+    color: white;
+    margin-right: 20px;
+    font-family: arial;
+}
+#firstbutton{
+    margin-left: 75px;
+}
+#mid{
+    padding: 20px;
+}
+#majorlist{
+    display: inline-block;
+    text-align: center;
+    margin-left: 100px;
+    vertical-align: top;
+    margin-right: 40px;
+    color: yellow;
+    font-family: arial;
+
+}
+#rightbox{
+    display: inline-block;
+    width: 550px;
+    text-align: center;
+    color: white;
+    font-family: arial;
+}
+.descriptions{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: yellow;
+    font-style: italic;
+}
+#majorlist a{
+    color: white;
+}
+#whitebox{
+    padding: 20px;
+    font-family: arial;
+}
+#gettingstarted{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    text-align: center;
+    margin-left: 100px;
+    border-top: 3px;
+    border-top-style: solid;
+    border-color: #72a7d5;
+    padding: 10px;
+}
+#applications{
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    margin-left: 100px;
+    border-top: 3px;
+    border-top-style: solid;
+    border-color: #72a7d5;
+    padding: 10px;
+}
+#bottom{
+    background: #295c88;
+    font-family: arial;
+    padding: 10px;
+}
+#bottom h4{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #7fb1de
+}
+#help{
+    margin-left: 200px;
+}
+#bottom p{
+    text-align: center;
+    font-size: 10px;
+    color: #7fb1de
+}
+
+
+
+
+
+
+
+
